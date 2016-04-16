@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 0f430b53d92b3466da90c6582e6ba277
+timeCreated: 1460817094
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Needle Body
+    21300002: Needle Head
+    21300004: Circle
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Needle Body
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 16
+        width: 5
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Needle Head
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 302
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 27.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -27.5, y: -13.5}
+        - {x: -18.5, y: -27.5}
+        - {x: 20.5, y: -27.5}
+        - {x: 27.5, y: -23.5}
+        - {x: 27.5, y: 21.5}
+        - {x: 17.5, y: 27.5}
+    - name: Circle
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 246
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -76}
+        - {x: 120, y: -46}
+        - {x: 123, y: -31}
+        - {x: 123, y: 39}
+        - {x: 101, y: 83}
+        - {x: 79, y: 100}
+        - {x: 44, y: 123}
+        - {x: -37, y: 123}
+        - {x: -50, y: 118}
+        - {x: -84, y: 101}
+        - {x: -123, y: 54}
+        - {x: -123, y: -52}
+        - {x: -82, y: -106}
+        - {x: -41, y: -123}
+        - {x: 36, y: -123}
+        - {x: 64, y: -109}
+        - {x: 78, y: -98}
+        - {x: 96, y: -79}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
