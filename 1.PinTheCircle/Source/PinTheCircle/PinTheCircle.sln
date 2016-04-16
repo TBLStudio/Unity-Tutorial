@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2F43753E-C1B3-D092-C833-C07789F9E292}") = "PinTheCircle", "Assembly-CSharp.csproj", "{0B0648D2-8B3F-D84E-0BF0-57EDF6F10B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B0648D2-8B3F-D84E-0BF0-57EDF6F10B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0648D2-8B3F-D84E-0BF0-57EDF6F10B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0648D2-8B3F-D84E-0BF0-57EDF6F10B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0648D2-8B3F-D84E-0BF0-57EDF6F10B19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
