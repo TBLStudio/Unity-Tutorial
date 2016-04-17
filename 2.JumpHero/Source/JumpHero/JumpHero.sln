@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{181033C9-FA5B-74FC-20B4-229C7D7447A3}") = "JumpHero", "Assembly-CSharp.csproj", "{5534B9A5-C51A-8FA6-5096-C2AD9A05DA60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5534B9A5-C51A-8FA6-5096-C2AD9A05DA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5534B9A5-C51A-8FA6-5096-C2AD9A05DA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5534B9A5-C51A-8FA6-5096-C2AD9A05DA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5534B9A5-C51A-8FA6-5096-C2AD9A05DA60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
