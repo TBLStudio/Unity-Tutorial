@@ -46,7 +46,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Circle Script\CircleRotateScript.cs" />
+     <Compile Include="Assets\Scripts\Circle Script\ScoreManager.cs" />
      <Compile Include="Assets\Scripts\Game Manager\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Main Menu Controller\MainMenuController.cs" />
+     <Compile Include="Assets\Scripts\Needle Script\NeedleHeadScript.cs" />
      <Compile Include="Assets\Scripts\Needle Script\NeedleMovementScript.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
