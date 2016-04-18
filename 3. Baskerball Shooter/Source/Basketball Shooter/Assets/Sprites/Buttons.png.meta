@@ -1,13 +1,21 @@
 fileFormatVersion: 2
 guid: 85c3858f8b5ba470fbf6c1db1b14d0e0
-timeCreated: 1460913879
+timeCreated: 1460948940
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Play Button
+    21300002: Pause Button
+    21300004: Back to Manu Button
+    21300006: Buttons_3
+    21300008: Buttons_4
+    21300010: Buttons_5
+    21300012: Buttons_6
+    21300014: Ball Button
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -26,11 +34,11 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -1
-  maxTextureSize: 2048
+  textureFormat: -3
+  maxTextureSize: 512
   textureSettings:
-    filterMode: -1
-    aniso: -1
+    filterMode: 1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +46,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +57,155 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Play Button
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 398
+        width: 430
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.96591, y: 33.52272}
+        - {x: -109.96591, y: 31.52272}
+        - {x: -109.96591, y: -20.47728}
+        - {x: -107.96591, y: -32.47728}
+        - {x: 111.03409, y: -32.47728}
+        - {x: 111.03409, y: 33.52272}
+    - name: Pause Button
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 396
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.068176, y: 31.5}
+        - {x: -23.068176, y: 29.5}
+        - {x: -30.068176, y: 19.5}
+        - {x: -30.068176, y: -30.5}
+        - {x: 31.931824, y: -30.5}
+        - {x: 31.931824, y: 17.5}
+        - {x: 16.931824, y: 31.5}
+      - - {x: -30.068176, y: 17.5}
+        - {x: -27.068176, y: 18.5}
+        - {x: -27.068176, y: 23.5}
+        - {x: -29.068176, y: 25.5}
+        - {x: -30.068176, y: 25.5}
+    - name: Back to Manu Button
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 292
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.068176, y: 26.318176}
+        - {x: -27.068176, y: 24.318176}
+        - {x: -30.068176, y: 22.318176}
+        - {x: -30.068176, y: -1.6818237}
+        - {x: 7.9318237, y: -25.681824}
+        - {x: 28.931824, y: -25.681824}
+        - {x: 31.931824, y: -18.681824}
+        - {x: 31.931824, y: 23.318176}
+        - {x: 25.931824, y: 26.318176}
+    - name: Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 130
+        width: 428
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.46591, y: 33.977272}
+        - {x: -106.46591, y: 28.977272}
+        - {x: -109.46591, y: 26.977272}
+        - {x: -109.46591, y: 3.977272}
+        - {x: -104.46591, y: -27.022728}
+        - {x: -98.46591, y: -33.022728}
+        - {x: 107.53409, y: -33.022728}
+        - {x: 110.53409, y: -23.022728}
+        - {x: 110.53409, y: 30.977272}
+        - {x: 85.53409, y: 33.977272}
+    - name: Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 130
+        width: 441
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112.55682, y: 34.977272}
+        - {x: -112.55682, y: -4.022728}
+        - {x: -105.55682, y: -34.022728}
+        - {x: 113.44318, y: -34.022728}
+        - {x: 113.44318, y: 34.977272}
+    - name: Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 426
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.89773, y: 33}
+        - {x: -108.89773, y: -33}
+        - {x: 110.10227, y: -33}
+        - {x: 110.10227, y: 33}
+    - name: Buttons_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 430
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.93182, y: 33}
+        - {x: -109.93182, y: -6}
+        - {x: -102.93182, y: -33}
+        - {x: 65.06818, y: -33}
+        - {x: 107.06818, y: -30}
+        - {x: 110.06818, y: -20}
+        - {x: 110.06818, y: 33}
+    - name: Ball Button
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 263
+        width: 432
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.48864, y: 34.488632}
+        - {x: -110.48864, y: 32.488632}
+        - {x: -110.48864, y: -30.511368}
+        - {x: -109.48864, y: -33.511368}
+        - {x: 111.51136, y: -33.511368}
+        - {x: 111.51136, y: 28.488632}
+        - {x: 89.51136, y: 34.488632}
     outline: []
   spritePackingTag: 
   userData: 
