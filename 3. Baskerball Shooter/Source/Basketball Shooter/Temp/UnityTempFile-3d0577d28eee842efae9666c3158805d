@@ -79,6 +79,10 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
+'Assets/Scripts/BallScripts/ShootScript.cs'
+'Assets/Scripts/Controller/BallSelectScript.cs'
 'Assets/Scripts/Controller/MainMenuController.cs'
+'Assets/Scripts/GameManager/BallCreator.cs'
+'Assets/Scripts/GameManager/GameManager.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
