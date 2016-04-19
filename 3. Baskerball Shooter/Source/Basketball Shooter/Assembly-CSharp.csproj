@@ -45,11 +45,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\BallScripts\BallScript.cs" />
      <Compile Include="Assets\Scripts\BallScripts\ShootScript.cs" />
      <Compile Include="Assets\Scripts\Controller\BallSelectScript.cs" />
      <Compile Include="Assets\Scripts\Controller\MainMenuController.cs" />
      <Compile Include="Assets\Scripts\GameManager\BallCreator.cs" />
      <Compile Include="Assets\Scripts\GameManager\GameManager.cs" />
+     <Compile Include="Assets\Scripts\GameManager\GamePlayController.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
