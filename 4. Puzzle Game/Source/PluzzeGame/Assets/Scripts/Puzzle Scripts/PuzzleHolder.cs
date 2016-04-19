@@ -1,0 +1,1 @@
+﻿using UnityEngine;using System.Collections;public class PuzzleHolder : MonoBehaviour {    public GameObject[] puzzlePieces;	// Use this for initialization	void Start () {		}		// Update is called once per frame	void Update () {		}}
