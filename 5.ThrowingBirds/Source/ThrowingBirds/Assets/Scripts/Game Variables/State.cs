@@ -1,0 +1,1 @@
+﻿using UnityEngine;using System.Collections;public enum SlingshootState{    Idle,    UserPulling,    BirdFlying}public enum GameState{    Start,    BirdMovingToSlingshoot,    Playing,    Won,    Lost}public enum BirdState{    BeforeThrown,    Thrown}
