@@ -15,3 +15,20 @@
 /Users/nnduc/Desktop/Documents/Research/Games/GameUnity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/nnduc/Desktop/Documents/Research/Games/GameUnity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/nnduc/Desktop/Documents/Research/Games/GameUnity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/UnityEngine.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/UnityEditor.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Mono.Cecil.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Unity.DataContract.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/NgoHongThai/Desktop/Documents/2. Research/Games/Unity/Udemy_com/Unity-Tutorial/5.ThrowingBirds/Source/ThrowingBirds/Temp/bin/Debug/Mono.Cecil.Mdb.dll

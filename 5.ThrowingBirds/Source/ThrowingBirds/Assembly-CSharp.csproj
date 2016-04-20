@@ -48,9 +48,12 @@
      <Compile Include="Assets\Scripts\Bird Scripts\Bird.cs" />
      <Compile Include="Assets\Scripts\Brick Scripts\Brick.cs" />
      <Compile Include="Assets\Scripts\Camera Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\Camera Scripts\CameraMove.cs" />
+     <Compile Include="Assets\Scripts\Destroyer\Destroyer.cs" />
      <Compile Include="Assets\Scripts\Game Variables\GameVariables.cs" />
      <Compile Include="Assets\Scripts\Game Variables\State.cs" />
      <Compile Include="Assets\Scripts\GameManager\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Parallax Scrolling Scripts\PallaraxScroll.cs" />
      <Compile Include="Assets\Scripts\Sling Shot Scripts\SlingShot.cs" />
      <None Include="Assets\Plugins\GoKit\easing\easeEquationsLicense.txt" />
  <Reference Include="UnityEngine.Networking">
