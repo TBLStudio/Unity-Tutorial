@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Candy Scripts/CandyArray.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bonus Utilities/BonusUtiliies.cs" Line="21" Column="84" />
+      <File FileName="Assets/Scripts/Game Variables/GameVariables.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/Candy Scripts/Candy.cs" Line="25" Column="15" />
+      <File FileName="Assets/Scripts/Match Checker Scripts/MatchChecker.cs" Line="8" Column="52" />
+      <File FileName="Assets/Scripts/Candy Scripts/CandyArray.cs" Line="214" Column="3" />
+      <File FileName="Assets/Scripts/Candy Scripts/AlteredCandyInfo.cs" Line="16" Column="42" />
+      <File FileName="Assets/Scripts/Candy Scripts/CandyInfo.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/Matches Info/MatchesInfo.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
